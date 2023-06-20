@@ -1,0 +1,3 @@
+= Screenshots
+
+A place to put screenshots for my tools so they don't pollute the source code.
